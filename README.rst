@@ -1,39 +1,28 @@
-Template
+Alphacast API Documentation
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+Welcome to Alphacast API Documentation project. 
 
-Look how easy it is to use:
+Docs mantained in this project are publicly available at https://alphacast-api.readthedocs.io/
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
-Features
---------
-
-- Be awesome
-- Make things faster
+Contribute
+-------
+We welcome collaborators to our API clients, documentation, or sources of information. 
+- Feel free to do a PR if you find opportunities to improve our doc. 
+- Issue Tracker: github.com/alphacastio/api-doc/issues
+- If you are interested in Alphacast Datasets, Charts, or any of the work we do, feel free to contact us at hello@alphacast.io. 
 
 Installation
 ------------
 
-Install $project by running:
+You can install Sphinx if you are interested in building the docs locally: https://www.sphinx-doc.org/en/master/usage/installation.html
 
-    install project
-
-Contribute
-----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+Otherwise, just follow Restructured Text grammar: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
 
 Support
 -------
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+If you are having issues, please let us know: hello@alphacast.io
 
 License
 -------
