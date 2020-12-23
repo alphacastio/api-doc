@@ -10,8 +10,7 @@ Authentication to the API is performed via HTTP Basic Auth. Provide your API key
 
 
 
-  $curl https://charts.alphacast.io/api/datasets \
-    -u ak_somesomplekey:
+  $curl https://charts.alphacast.io/api/datasets -u ak_somesomplekey:
   # The colon prevents curl from asking for a password.
 
 All API requests must be made over HTTPS. Calls made over plain HTTP will fail. API requests without authentication will also fail.
