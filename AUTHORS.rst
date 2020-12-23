@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Miguel Angel Saez
+* Luciano Cohan
 
 
