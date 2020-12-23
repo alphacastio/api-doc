@@ -8,6 +8,7 @@ Docs mantained in this project are publicly available at https://alphacast-api.r
 Contribute
 -------
 We welcome collaborators to our API clients, documentation, or sources of information. 
+
 - Feel free to do a PR if you find opportunities to improve our doc. 
 - Issue Tracker: github.com/alphacastio/api-doc/issues
 - If you are interested in Alphacast Datasets, Charts, or any of the work we do, feel free to contact us at hello@alphacast.io. 
