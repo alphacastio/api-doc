@@ -9,7 +9,7 @@ Make sure you keep your API secure. Do not share your secret API keys in publicl
 
 Authentication to the API is performed via HTTP Basic Auth. Provide your API key as the basic auth username value. You do not need to provide a password.
 
-
+::
 
   $curl https://charts.alphacast.io/api/datasets -u ak_somesomplekey:
   # The colon prevents curl from asking for a password.
