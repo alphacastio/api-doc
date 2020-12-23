@@ -16,6 +16,8 @@ We welcome collaborators to our API clients, documentation, or sources of inform
 Installation
 ------------
 
+The API themselves don't require any installation to use them. You can use curl, python requests, whatever you feel more confortable with. 
+
 You can install Sphinx if you are interested in building the docs locally: https://www.sphinx-doc.org/en/master/usage/installation.html
 
 Otherwise, just follow Restructured Text grammar: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
